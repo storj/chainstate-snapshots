@@ -1,7 +1,7 @@
 # Accelerate blockchain node deployment
 
-Using Storj DCS, you can significantly reduce the cost and time-to-value when spinning up new node.
+Using Storj DCS, you can significantly reduce the cost and time-to-value when spinning up new nodes.
 
-Note: These are not insturctions for Storj Node operators, but rather instructions of other chains to utilize Storj for the chainstate snapshots. 
+Note: These instructions are for other blockchains to utilize Storj for their own chainstate snapshots. These are not insturctions for Storj Node Operators.
 
-Use the [sample instuctions](download-chainstate-template.md) to educate your blockchain Node operators how to download snapshots from Storj.
+Use the [sample instuctions](download-chainstate-template.md) to educate your node operators how to download snapshots from Storj.
